@@ -1,0 +1,11 @@
+{
+  "title": "Rick And Morty",
+  "view": "View {name}",
+  "location": "Location",
+  "episodes": "Episodes featured in:",
+  "load": "Load More",
+  "sortby": "Sort by name",
+  "search": "Search by name",
+  "sort_asc": "Name (asc)",
+  "sort_desc": "Name (desc)"
+}

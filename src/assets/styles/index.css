@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-green-rnm {
+    background-color: #97ce4c;
+}
